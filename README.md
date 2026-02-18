@@ -31,7 +31,7 @@ I don’t know everything. But give me *time, Wi-Fi, and a real problem—and I�
 ---
 
 ## 📬 Let's Connect
-- 🔗 [LinkedIn](https://linkedin.com) (update with your real link)
+- 🔗 [LinkedIn](https://linkedin.com) 
 - 🤝 Open to learning, building, and collaborating
 
 ---
