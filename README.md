@@ -1,39 +1,49 @@
-# Hey, I'm Pooja! 👋
+# 👋 Hi, I’m Pooja Shinde
 
-I don’t know everything. But give me *time, Wi-Fi, and a real problem—and I’ll figure it out.*  
+Self-taught software developer focused on building scalable, real-world applications across the MERN stack and backend systems.  
+I enjoy turning ideas into working products and solving practical engineering problems end-to-end.
 
 ---
 
-## 👨‍💻 About Me
-- 🧠 Self-taught developer on a mission to master *MERN Stack* & *DSA in C++*
-- ⚙️ Building real-world projects from scratch
-- 🚀 Dreaming big: Startup founder in the making.
-- 🇮🇳 Determined to be known across India—then the world.
+## 👩‍💻 About Me
+🧠 Specializing in **MERN Stack** and **Data Structures & Algorithms (C++)**
+⚙️ Building full-stack applications from architecture to deployment
+🚀 Interested in product engineering and startup development
+🇮🇳 Based in India, building for global-scale users
 
 ---
 
 ## 🛠 Tech Stack
-- 💻 Languages: C++, JavaScript, Python, Java
-- 🌐 Frontend: React, HTML, CSS
-- 🧰 Backend: Node.js, Express.js
-- 🗄️ Database: MongoDB, `Postgresql`
-- 🛠 Tools: Git, GitHub, VS Code
+
+**Languages**  
+C++ · JavaScript · Python · Java
+
+**Frontend**  
+Next.js · React · HTML5 · CSS3
+
+**Backend**  
+Node.js · Express.js
+
+**Databases**  
+MongoDB · PostgreSQL
+
+**Tools & Practices**  
+Git · GitHub · VS Code · REST APIs · Postman  
 
 ---
 
-## 🎯 2025 Goals
-- ✅ Master MERN & DSA
-- ✅ Build 5+ full-stack projects
-- ✅ Start my tech startup
-- ✅ Land a top tech role / internship
-- ✅ Inspire 1000s of others on this path 
+## 📈 Current Focus
+Scalable backend architecture and APIs  
+Database design and performance  
+Clean code and maintainable systems  
+Full-stack project deployment  
 
 ---
 
-## 📬 Let's Connect
-- 🔗 [LinkedIn](https://linkedin.com) 
-- 🤝 Open to learning, building, and collaborating
+## 📬 Connect
+💼 LinkedIn: [[LinkedIn]](https://www.linkedin.com/in/pooja-shinde-10b77730b/)
+🤝 Open to collaboration, internships, and software roles  
 
 ---
 
-> *“No one starts as a legend. But with fire, focus, and consistency—you become one.”*
+> Consistency and deliberate practice build mastery.
